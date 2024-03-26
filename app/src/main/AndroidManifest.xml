@@ -3,7 +3,7 @@
     package="com.atakmap.android.plugintemplate.plugin"
     tools:ignore="GoogleAppIndexingWarning">
 
-    <application 
+    <application
         android:allowBackup="false"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
@@ -14,8 +14,8 @@
         <meta-data android:name="app_desc" android:value="@string/app_desc"/>
 
 
-       <!-- This fictitious activity entry allow for ATAK 4.6.0.2 and newer to perform 
-            plugin discovery  android devices.  If this is removed, the plugin will 
+       <!-- This fictitious activity entry allow for ATAK 4.6.0.2 and newer to perform
+            plugin discovery  android devices.  If this is removed, the plugin will
             not be able to be discovered or loaded.  -->
        <activity android:name="com.atakmap.app.component"
            android:exported="true"
@@ -25,7 +25,51 @@
            </intent-filter>
        </activity>
 
+        <activity android:name=".MainActivity"  android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
 
     </application>
 
 </manifest>
+<!--<manifest xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    package="com.atakmap.android.plugintemplate.plugin"-->
+<!--    tools:ignore="GoogleAppIndexingWarning">-->
+
+<!--    <application-->
+<!--        android:allowBackup="false"-->
+<!--        android:icon="@drawable/ic_launcher"-->
+<!--        android:label="@string/app_name"-->
+<!--        android:description="@string/app_desc"-->
+<!--        android:extractNativeLibs="true"-->
+<!--        android:theme="@style/AppTheme" >-->
+<!--        <meta-data android:name="plugin-api" android:value="${atakApiVersion}"/>-->
+<!--        <meta-data android:name="app_desc" android:value="@string/app_desc"/>-->
+
+<!--        &lt;!&ndash; This fictitious activity entry allows for ATAK 4.6.0.2 and newer to perform-->
+<!--             plugin discovery on Android devices.  If this is removed, the plugin will-->
+<!--             not be able to be discovered or loaded.  &ndash;&gt;-->
+<!--        <activity android:name="com.atakmap.app.component"-->
+<!--            android:exported="true"-->
+<!--            tools:ignore="MissingClass">-->
+<!--            <intent-filter android:label="@string/app_name">-->
+<!--                <action android:name="com.atakmap.app.component" />-->
+<!--            </intent-filter>-->
+<!--        </activity>-->
+
+<!--        <activity android:name=".MainActivity"-->
+<!--            android:exported="true">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+<!--        </activity>-->
+
+<!--    </application>-->
+
+<!--</manifest>-->

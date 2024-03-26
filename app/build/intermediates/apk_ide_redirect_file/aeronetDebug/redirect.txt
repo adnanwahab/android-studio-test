@@ -1,0 +1,2 @@
+#- File Locator -
+listingFile=../../apk/aeronet/debug/output-metadata.json

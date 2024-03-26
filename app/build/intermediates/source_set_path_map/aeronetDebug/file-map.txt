@@ -1,0 +1,10 @@
+com.atakmap.android.plugintemplate.plugin.app-debug-0 /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build-types/debug/res
+com.atakmap.android.plugintemplate.plugin.app-aeronet-1 /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/generated/res/pngs/aeronet/debug
+com.atakmap.android.plugintemplate.plugin.app-aeronet-2 /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/generated/res/resValues/aeronet/debug
+com.atakmap.android.plugintemplate.plugin.app-aeronet-3 /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/generated/res/rs/aeronet/debug
+com.atakmap.android.plugintemplate.plugin.app-mergeAeronetDebugResources-4 /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/intermediates/incremental/aeronetDebug/mergeAeronetDebugResources/merged.dir
+com.atakmap.android.plugintemplate.plugin.app-mergeAeronetDebugResources-5 /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/intermediates/incremental/aeronetDebug/mergeAeronetDebugResources/stripped.dir
+com.atakmap.android.plugintemplate.plugin.app-merged_res-6 /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/intermediates/merged_res/aeronetDebug
+com.atakmap.android.plugintemplate.plugin.app-aeronet-7 /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/aeronet/res
+com.atakmap.android.plugintemplate.plugin.app-aeronetDebug-8 /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/aeronetDebug/res
+com.atakmap.android.plugintemplate.plugin.app-main-9 /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/res

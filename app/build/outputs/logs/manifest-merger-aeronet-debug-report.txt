@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+meta-data#plugin-api
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:13:9-81
+	android:value
+		INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:13:46-79
+	android:name
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:13:20-45
+manifest
+ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [:takdevlint:] /home/adnan/.gradle/caches/transforms-3/1e8b7ecc59eacde85dcf07d553b6b887/transformed/takdevlint/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:3:5-56
+		INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:1:11-69
+	tools:ignore
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:4:5-44
+application
+ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:6:5-36:19
+	android:extractNativeLibs
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:11:9-41
+	android:label
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:7:9-36
+	android:description
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:10:9-47
+	android:theme
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:12:9-40
+meta-data#app_desc
+ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:14:9-78
+	android:value
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:14:44-76
+	android:name
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:14:20-43
+activity#com.atakmap.app.component
+ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:20:8-26:19
+	android:exported
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:21:12-35
+	tools:ignore
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:22:12-39
+	android:name
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:20:18-58
+intent-filter#action:name:com.atakmap.app.component
+ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:23:12-25:28
+	android:label
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:23:27-59
+action#com.atakmap.app.component
+ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:24:15-66
+	android:name
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:24:23-63
+activity#com.atakmap.android.plugintemplate.plugin.MainActivity
+ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:28:9-33:20
+	android:exported
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:28:49-72
+	android:name
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+MERGED from [:takdevlint:] /home/adnan/.gradle/caches/transforms-3/1e8b7ecc59eacde85dcf07d553b6b887/transformed/takdevlint/AndroidManifest.xml:5:5-44
+MERGED from [:takdevlint:] /home/adnan/.gradle/caches/transforms-3/1e8b7ecc59eacde85dcf07d553b6b887/transformed/takdevlint/AndroidManifest.xml:5:5-44
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+		ADDED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml

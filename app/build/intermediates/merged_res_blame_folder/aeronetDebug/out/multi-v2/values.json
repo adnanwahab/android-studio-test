@@ -1,0 +1,170 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/adnan/.gradle/daemon/7.6.1/com.atakmap.android.plugintemplate.plugin.app-mergeAeronetDebugResources-4:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/generated/res/resValues/aeronet/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "456",
+                        "endColumns": "85",
+                        "endOffsets": "537"
+                    }
+                },
+                {
+                    "source": "/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "10,17,27,30,33,40,54,57,65,70,73,84",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "542,719,1446,1584,1740,2113,2676,2759,3291,3567,3720,4308",
+                        "endLines": "16,26,29,32,39,53,56,64,69,72,83,88",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "714,1441,1579,1735,2108,2671,2754,3286,3562,3715,4303,4554"
+                    }
+                },
+                {
+                    "source": "/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/res/values/dimen.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "190,232",
+                        "endColumns": "41,39",
+                        "endOffsets": "227,267"
+                    }
+                },
+                {
+                    "source": "/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,3",
+                        "startColumns": "-1,4",
+                        "startOffsets": "-1,72",
+                        "endColumns": "-1,54",
+                        "endOffsets": "-1,122"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "272,401",
+                        "endColumns": "128,54",
+                        "endOffsets": "396,451"
+                    }
+                },
+                {
+                    "source": "/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,150",
+                        "endColumns": "45,48,39",
+                        "endOffsets": "96,145,185"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.atakmap.android.plugintemplate.plugin.app-mergeAeronetDebugResources-4:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/generated/res/resValues/aeronet/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "454",
+                        "endColumns": "85",
+                        "endOffsets": "535"
+                    }
+                },
+                {
+                    "source": "/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "10,17,27,30,33,40,54,57,65,70,73,84",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "540,717,1444,1582,1738,2111,2674,2757,3289,3565,3718,4306",
+                        "endLines": "16,26,29,32,39,53,56,64,69,72,83,88",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "712,1439,1577,1733,2106,2669,2752,3284,3560,3713,4301,4552"
+                    }
+                },
+                {
+                    "source": "/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/res/values/dimen.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "190,232",
+                        "endColumns": "41,39",
+                        "endOffsets": "227,267"
+                    }
+                },
+                {
+                    "source": "/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,3",
+                        "startColumns": "-1,4",
+                        "startOffsets": "-1,72",
+                        "endColumns": "-1,52",
+                        "endOffsets": "-1,120"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "272,401",
+                        "endColumns": "128,52",
+                        "endOffsets": "396,449"
+                    }
+                },
+                {
+                    "source": "/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,150",
+                        "endColumns": "45,48,39",
+                        "endOffsets": "96,145,185"
+                    }
+                }
+            ]
+        }
+    ]
+}
