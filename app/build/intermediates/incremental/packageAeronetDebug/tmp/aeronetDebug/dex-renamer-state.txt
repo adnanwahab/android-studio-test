@@ -1,4 +1,4 @@
-#Tue Mar 26 17:18:43 MST 2024
+#Wed Mar 27 16:40:27 MST 2024
 base.0=/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/intermediates/dex/aeronetDebug/mergeExtDexAeronetDebug/classes.dex
 base.1=/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/intermediates/dex/aeronetDebug/mergeProjectDexAeronetDebug/0/classes.dex
 base.2=/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/intermediates/dex/aeronetDebug/mergeProjectDexAeronetDebug/1/classes.dex

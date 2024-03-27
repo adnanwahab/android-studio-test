@@ -8,8 +8,8 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "com.atakmap.android.plugintemplate.plugin.aeronet";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "aeronet";
-  public static final int VERSION_CODE = 1711498300;
-  public static final String VERSION_NAME = "1.0 (b5021008) - [5.1.0]";
+  public static final int VERSION_CODE = 1711558968;
+  public static final String VERSION_NAME = "1.0 (3e2523e8) - [5.1.0]";
   // Field from the variant API
   public static final String ATAK_PACKAGE_NAME = "com.atakmap.app.civ";
 }
