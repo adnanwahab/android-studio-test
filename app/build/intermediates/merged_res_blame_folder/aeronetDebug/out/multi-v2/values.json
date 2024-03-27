@@ -15,9 +15,9 @@
                     "to": {
                         "startLines": "9",
                         "startColumns": "4",
-                        "startOffsets": "388",
+                        "startOffsets": "387",
                         "endColumns": "85",
-                        "endOffsets": "469"
+                        "endOffsets": "468"
                     }
                 },
                 {
@@ -33,10 +33,10 @@
                     "to": {
                         "startLines": "10,17,27,30,33,40,54,57,65,70,73,84",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "474,651,1378,1516,1672,2045,2608,2691,3223,3499,3652,4240",
+                        "startOffsets": "473,650,1377,1515,1671,2044,2607,2690,3222,3498,3651,4239",
                         "endLines": "16,26,29,32,39,53,56,64,69,72,83,88",
                         "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12",
-                        "endOffsets": "646,1373,1511,1667,2040,2603,2686,3218,3494,3647,4235,4486"
+                        "endOffsets": "645,1372,1510,1666,2039,2602,2685,3217,3493,3646,4234,4485"
                     }
                 },
                 {
@@ -61,16 +61,16 @@
                     "from": {
                         "startLines": "5,3",
                         "startColumns": "4,4",
-                        "startOffsets": "150,72",
-                        "endColumns": "62,52",
-                        "endOffsets": "208,120"
+                        "startOffsets": "149,72",
+                        "endColumns": "62,51",
+                        "endOffsets": "207,119"
                     },
                     "to": {
                         "startLines": "7,8",
                         "startColumns": "4,4",
                         "startOffsets": "272,335",
-                        "endColumns": "62,52",
-                        "endOffsets": "330,383"
+                        "endColumns": "62,51",
+                        "endOffsets": "330,382"
                     }
                 },
                 {
