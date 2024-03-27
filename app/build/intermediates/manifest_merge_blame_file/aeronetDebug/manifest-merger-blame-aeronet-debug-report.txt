@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.atakmap.android.plugintemplate.plugin.aeronet"
-4    android:versionCode="1711472427"
-5    android:versionName="1.0 (2d7dc090) - [5.1.0]" >
+4    android:versionCode="1711480639"
+5    android:versionName="1.0 (94c6c9b0) - [5.1.0]" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
@@ -21,8 +21,8 @@
 15-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:11:9-41
 16        android:icon="@drawable/ic_launcher"
 16-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:8:9-45
-17        android:label="@string/app_name"
-17-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:9:9-41
+17        android:label="@Swarmbotics.ai"
+17-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:9:9-40
 18        android:testOnly="true"
 19        android:theme="@style/AppTheme" >
 19-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:12:9-40
@@ -49,9 +49,9 @@
 33-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:20:18-58
 34            android:exported="true" >
 34-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:21:12-35
-35            <intent-filter android:label="@string/app_name" >
+35            <intent-filter android:label="swarmbotics.ai" >
 35-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:23:12-25:28
-35-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:23:27-59
+35-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:23:27-57
 36                <action android:name="com.atakmap.app.component" />
 36-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:24:15-66
 36-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:24:23-63
@@ -60,9 +60,9 @@
 39        <activity
 39-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:28:9-33:20
 40            android:name="com.atakmap.android.plugintemplate.plugin.MainActivity"
-40-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:28:19-47
+40-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:28:19-88
 41            android:exported="true" >
-41-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:28:49-72
+41-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:28:90-113
 42            <intent-filter>
 42-->/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/src/main/AndroidManifest.xml:29:13-32:29
 43                <action android:name="android.intent.action.MAIN" />

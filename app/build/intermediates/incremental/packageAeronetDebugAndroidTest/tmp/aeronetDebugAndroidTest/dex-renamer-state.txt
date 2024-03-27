@@ -1,0 +1,7 @@
+#Tue Mar 26 15:29:44 MST 2024
+base.0=/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/intermediates/dex/aeronetDebugAndroidTest/mergeProjectDexAeronetDebugAndroidTest/0/classes.dex
+base.1=/home/adnan/Downloads/ATAK-CIV-5.0.0.23-SDK/samples/plugintemplate/app/build/intermediates/dex/aeronetDebugAndroidTest/mergeProjectDexAeronetDebugAndroidTest/2/classes.dex
+path.0=0/classes.dex
+path.1=2/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

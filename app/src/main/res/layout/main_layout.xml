@@ -13,10 +13,194 @@
         android:layout_height="wrap_content"
         android:orientation="vertical" >
 
+
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/app_name" />
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            android:text="swarmbotics.ai" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/my_image"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/left_arrow"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/right_arrow"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/up_arrow"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/down_arrow"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/one"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/two"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/three"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/four"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/five"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/six"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/seven"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/nine"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logo"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/metal_gear"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/replay2"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/replay"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/lidar"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/edge_ai"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/brands"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ai_defense"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/object_detection"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/lane_mapping"
+            android:padding="0dp"
+            android:layout_margin="0dp"
+            />
 
     </LinearLayout>
 </ScrollView>

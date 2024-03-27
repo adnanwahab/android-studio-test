@@ -6,7 +6,7 @@
     <application
         android:allowBackup="false"
         android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name"
+        android:label="@Swarmbotics.ai"
         android:description="@string/app_desc"
         android:extractNativeLibs="true"
         android:theme="@style/AppTheme" >
@@ -20,12 +20,12 @@
        <activity android:name="com.atakmap.app.component"
            android:exported="true"
            tools:ignore="MissingClass">
-           <intent-filter android:label="@string/app_name">
+           <intent-filter android:label="swarmbotics.ai">
               <action android:name="com.atakmap.app.component" />
            </intent-filter>
        </activity>
 
-        <activity android:name=".MainActivity"  android:exported="true">
+        <activity android:name="com.atakmap.android.plugintemplate.plugin.MainActivity"  android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
