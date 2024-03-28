@@ -14,6 +14,15 @@
         <meta-data android:name="app_desc" android:value="@string/app_desc"/>
 
 
+
+        <!-- activies, service, provider, -->
+        <activity
+            android:name="com.atakmap.android.helloworld.CameraActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
+            android:exported="true"
+            android:configChanges="orientation">
+        </activity>
+
        <!-- This fictitious activity entry allow for ATAK 4.6.0.2 and newer to perform
             plugin discovery  android devices.  If this is removed, the plugin will
             not be able to be discovered or loaded.  -->

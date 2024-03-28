@@ -34,6 +34,7 @@ drawable six
 drawable three
 drawable two
 drawable up_arrow
+id myButton
 layout main_layout
 string app_desc
 string app_name

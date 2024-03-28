@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.atakmap.android.plugintemplate.plugin.aeronet"
-    android:versionCode="1711558968"
-    android:versionName="1.0 (3e2523e8) - [5.1.0]" >
+    android:versionCode="1711583301"
+    android:versionName="1.0 (e1b33277) - [5.1.0]" >
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -23,6 +23,14 @@
         <meta-data
             android:name="app_desc"
             android:value="@string/app_desc" />
+
+        <!-- activies, service, provider, -->
+        <activity
+            android:name="com.atakmap.android.helloworld.CameraActivity"
+            android:configChanges="orientation"
+            android:exported="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+        </activity>
 
         <!--
             This fictitious activity entry allow for ATAK 4.6.0.2 and newer to perform
