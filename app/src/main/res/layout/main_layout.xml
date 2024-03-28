@@ -15,13 +15,12 @@
         android:orientation="vertical" >
 
 
-
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:padding="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="96dp"
             android:layout_margin="0dp"
-            android:text="Swarmbotics.ai Teleoperation" />
+            android:padding="0dp"
+            android:text="Swarmbotics.ai Teleoperation = march 28" />
 
 
         <TextView
@@ -59,15 +58,12 @@
             android:text="end of steering wheel + video" />
 
 
-
-
         <ImageView
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/joystick"
-            android:padding="0dp"
+            android:layout_height="268dp"
             android:layout_margin="0dp"
-            />
+            android:padding="0dp"
+            android:src="@drawable/joystick" />
 
 
         <ImageView

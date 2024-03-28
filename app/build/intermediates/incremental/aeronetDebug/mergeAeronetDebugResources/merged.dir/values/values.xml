@@ -7,7 +7,7 @@
     <dimen name="fontSize">14sp</dimen>
     <string name="app_desc">chick fila beats chipotle</string>
     <string name="app_name">Swarmbotics.ai</string>
-    <string name="versionName" translatable="false">1.0 (e1b33277) - [5.1.0]</string>
+    <string name="versionName" translatable="false">1.0 (72344c87) - [5.1.0]</string>
     <style name="ATAKEditText" parent="@android:style/Widget.EditText">
         
         
