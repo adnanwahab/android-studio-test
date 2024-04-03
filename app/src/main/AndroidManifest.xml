@@ -10,7 +10,7 @@
 
     <!-- Allow for the app to run independent of battery restrictions -->
     <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
-
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application 
         android:allowBackup="false"
@@ -47,6 +47,17 @@
                 <action android:name="com.atakmap.android.helloworld.service.ExampleAidlService"/>
             </intent-filter>
         </service>
+
+        <activity
+            android:name="com.atakmap.android.helloworld.MainActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
+            android:exported="true"
+            android:configChanges="orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
 
         <activity
             android:name="com.atakmap.android.helloworld.CameraActivity"

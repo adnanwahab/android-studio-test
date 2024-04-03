@@ -34,11 +34,11 @@ public class HelloWorldRobot {
             Thread.sleep(3000);
         } catch (Exception ignored) {
         }
-        HELPER.installPlugin("Hello World Tool");
+        HELPER.installPlugin("Swarmbotics.ai Teleop");
     }
 
     public HelloWorldRobot openToolFromOverflow() {
-        HELPER.pressButtonInOverflow("Hello World Tool");
+        HELPER.pressButtonInOverflow("Swarmbotics.ai Teleopl");
         return this;
     }
 

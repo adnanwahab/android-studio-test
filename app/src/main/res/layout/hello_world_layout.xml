@@ -15,12 +15,29 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+            <Button
+                android:id="@+id/webView"
+                style="@style/darkButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="6dp"
+                android:text="Made in Phoenix, Arizona" />
+
+
+
+            <VideoView
+                android:id="@+id/videoView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
 
             <TextView
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Hello, World"
+                android:text="Swarmbotics.ai"
                 android:textColor="@android:color/white"
                 android:textSize="20sp" />
 
@@ -595,13 +612,6 @@
                 android:padding="6dp"
                 android:text="Image Attach" />
 
-            <Button
-                android:id="@+id/webView"
-                style="@style/darkButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:padding="6dp"
-                android:text="Web View" />
 
             <Button
                 android:id="@+id/mapScreenshot"

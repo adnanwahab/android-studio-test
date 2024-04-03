@@ -126,7 +126,12 @@ public class WebViewDropDownReceiver extends DropDownReceiver implements
                     FULL_WIDTH, HALF_HEIGHT, false, this);
             this.htmlViewer.loadUrl("about:blank");
             //this.htmlViewer.loadUrl("http://192.168.43.174:3000");
-            this.htmlViewer.loadUrl("https://www.whatismybrowser.com/detect");
+            //this.htmlViewer.loadUrl("https://adnan-thinkpad-x1-carbon-gen-11.jerboa-kokanue.ts.net/");
+
+
+
+            this.htmlViewer.loadUrl("https://0280-72-195-220-81.ngrok-free.app");
+
         }
     }
 
