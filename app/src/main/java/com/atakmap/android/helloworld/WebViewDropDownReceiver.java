@@ -1,6 +1,8 @@
 
 package com.atakmap.android.helloworld;
 
+import static com.atakmap.android.navigation.NavigationCompat.setContentView;
+
 import com.atakmap.android.helloworld.plugin.R;
 import com.atakmap.android.maps.MapView;
 
@@ -130,7 +132,12 @@ public class WebViewDropDownReceiver extends DropDownReceiver implements
 
 
 
-            this.htmlViewer.loadUrl("https://0280-72-195-220-81.ngrok-free.app");
+            //this.htmlViewer.loadUrl("file:///android_asset/swarmbotics-webview/dist/index.html");
+            //this.htmlViewer.getSettings().setAllowFileAccess(true);
+            //this.htmlViewer.setWebContentsDebuggingEnabled(true);
+
+            this.htmlViewer.loadUrl("http://swarmbotics.surge.sh");
+            //this.htmlViewer.loadUrl("http://adnanwahab.com");
 
         }
     }
