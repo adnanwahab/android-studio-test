@@ -1,3 +1,29 @@
+# Notes on ATAK
+
+
+
+
+get source code from https://tak.gov/products/atak-civ
+
+https://tak.gov/products/atak-civ/loadouts/new?product_version=atak-civ-5-1-0
+
+
+changes made 
+
+
+add 
+    // ...
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+}
+to a gradle file
+
+
+
+
+
+
+
+---------------
 COMPILATION
 
 helloword is a complete skeleton project that can be used as a starting point 
